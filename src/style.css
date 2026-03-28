@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+.btn {
+    background-color: red;
+    padding: 20px, 30px;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    border: none;
+}
+
+.btn2 {
+    background-color: lightblue;
+    padding: 20px, 30px;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    border: none;
+}
